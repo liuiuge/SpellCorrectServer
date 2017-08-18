@@ -1,0 +1,11 @@
+dicten ../data/dicten.dat
+dictcn ../data/dictcn.dat
+srcen  ../data/dir
+srccn  ../data/dir/src/yuyuan.txt
+ip     192.168.199.128
+cache  ../data/cache.cac
+port   2000
+init_time 3
+intv_time 5
+
+version 0.2
